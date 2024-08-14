@@ -94,7 +94,15 @@ export const data = {
       ]
     }
   ],
-  "git": {},
+  "git": {
+    "contributors": [
+      {
+        "name": "zc7355608",
+        "email": "2273705254@qq.com",
+        "commits": 1
+      }
+    ]
+  },
   "filePathRelative": "base/optimizeCss.md"
 }
 
